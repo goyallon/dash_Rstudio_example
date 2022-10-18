@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "locale": "en_US.UTF-8",
+  "metadata": {
+    "appmode": "python-dash",
+    "entrypoint": "app"
+  },
+  "python": {
+    "version": "3.8.10",
+    "package_manager": {
+      "name": "pip",
+      "version": "20.0.2",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "d78c87167d5ae22909f68bad67dc60d8"
+    },
+    "README.md": {
+      "checksum": "136ae7a2b7500865527512cfc244bf4f"
+    },
+    "app.py": {
+      "checksum": "9a747611eb66baceb790040df9d1b591"
+    },
+    "prices.csv": {
+      "checksum": "e0bc27e3dd358c360863807e09079985"
+    }
+  }
+}
