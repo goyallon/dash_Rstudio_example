@@ -48,7 +48,7 @@ form_card_group = dbc.Card(
     [
         dbc.FormGroup(
             [
-                dbc.Label("Choose a Stock Symbol"),
+                dbc.Label("Wesh"),
                 dcc.Dropdown(
                     id="stock-ticker-select",
                     options=[
